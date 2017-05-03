@@ -1,0 +1,23 @@
+.about_block{
+    background: #fff;
+    padding: 40px;
+}
+
+.about_block_title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 44px;
+    color: #688c84;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.about_block_description{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 35px;
+    color: #688c84;
+    margin-bottom: 10px;
+}

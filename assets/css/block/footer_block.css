@@ -1,0 +1,28 @@
+.footer_block{
+    background: radial-gradient(#567a72, #3a5163);
+    padding: 20px;
+}
+
+.footer_block_field{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 35px;
+    color: #fff;
+    text-decoration: none;
+    float: left;
+}
+
+.footer_block_wrapper{
+    margin: 0 20px;
+}
+
+.footer_block_field a{
+    color: #fff;
+    margin-left: 5px;
+}
+
+.footer_block_field a:hover{
+    text-decoration: none;
+    color: #253a32;
+}

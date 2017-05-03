@@ -22,8 +22,8 @@ var streamify = require('gulp-streamify');
 
 var vendor = {
     css: [
-        './bower_components/bootstrap/dist/css/bootstrap.css'
-        //'./vendor/bower/fancybox/dist/jquery.fancybox.css',
+        './bower_components/bootstrap/dist/css/bootstrap.css',
+        './bower_components/fancybox/dist/jquery.fancybox.css',
         //'./vendor/bower/nouislider/distribute/nouislider.css'
     ],
     fonts: [
@@ -31,8 +31,8 @@ var vendor = {
     ],
     js: [
         './bower_components/jquery/dist/jquery.js',
-        './bower_components/bootstrap/dist/js/bootstrap.js'
-        //'./vendor/bower/fancybox/dist/jquery.fancybox.js',
+        './bower_components/bootstrap/dist/js/bootstrap.js',
+        './bower_components/fancybox/dist/jquery.fancybox.js',
         //'./vendor/bower/iosslider/_src/jquery.iosslider.js',
         //'./vendor/bower/jquery.inputmask/dist/jquery.inputmask.bundle.js',
         //'./vendor/bower/nouislider/distribute/nouislider.js'
