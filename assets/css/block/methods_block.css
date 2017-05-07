@@ -1,0 +1,30 @@
+.methods_block{
+    background: #fff;
+}
+
+.methods_block_carousel{
+    padding: 35px;
+    min-height: 370px;
+}
+
+.methods_block_carousel_title{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 25px;
+    color: #688c84;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.methods_block_carousel_description{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 25px;
+    color: #688c84;
+}
+
+.carousel_items{
+    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+}
