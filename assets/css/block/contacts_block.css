@@ -1,33 +1,68 @@
 .contacts_block{
     background: #fff;
-    padding: 30px;
+    padding: 50px 50px;
 }
 
 .contacts_block_info{
-    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+    background: linear-gradient( #3d96da, rgba(88, 197, 250, 0.55));
     padding: 30px;
-    font-family: "Roboto", sans-serif;
+    font-family: "Lobster", sans-serif;
     font-weight: 300;
-    font-size: 35px;
+    font-size: 33px;
     line-height: 25px;
-    color: #688c84;
+    color: rgba(0, 0, 0, 0.8);
     text-align: center;
 }
 
 .contacts_block_img_wrapper{
     margin-bottom: 30px;
+    width: 40px;
+    margin-top: 15px;
 }
 
 .contacts_block_img{
-    width: 100%;
-    height: 70px;
+    height: 60px;
+    width: 110px;
 }
 
 .contacts_block_text_wrapper{
-    padding-top: 15px;
+    padding-top: 25px;
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-size: 25px;
-    color: #688c84;
+    color: #000000;
     text-align: center;
+}
+
+.vk_left{
+    float: right;
+}
+
+.vk_img{
+    height: 45px;
+}
+
+.vk_wrapper{
+    margin-top: 20px;
+}
+
+.vk_block_filed{
+    padding-top: 25px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+}
+
+.vk_block_filed a{
+    color: #000000;
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+.vk_block_filed a:hover{
+    text-decoration: none;
+    color: #3c36ff;
 }

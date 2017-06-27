@@ -1,22 +1,22 @@
 .header_block{
-    background: #293f50;
+    background: #3d96da;
     padding: 30px;
 }
 
 .header_block_title{
     font-family: "Roboto", sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     font-size: 40px;
     line-height: 44px;
     color: #fff;
 }
 
 .header_block_description{
-    font-family: "Roboto", sans-serif;
+    font-family: "Lobster", sans-serif;
     font-weight: 400;
     font-size: 25px;
     line-height: 44px;
-    color: #688c84;
+    color: #000000;
     float: right;
     margin-bottom: 20px;
 }
@@ -38,5 +38,5 @@
 
 .header_block_field a:hover{
     text-decoration: none;
-    color: #648880;
+    color: #000000;
 }

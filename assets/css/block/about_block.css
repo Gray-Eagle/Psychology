@@ -4,11 +4,11 @@
 }
 
 .about_block_title{
-    font-family: "Roboto", sans-serif;
+    font-family: "Lobster", sans-serif;
     font-weight: 300;
     font-size: 40px;
     line-height: 44px;
-    color: #688c84;
+    color: #000000;
     text-align: center;
     margin-bottom: 35px;
 }
@@ -18,6 +18,15 @@
     font-weight: 300;
     font-size: 18px;
     line-height: 35px;
-    color: #688c84;
+    color: #000000;
     margin-bottom: 10px;
+    text-indent: 3em;
+    text-align: justify;
+}
+
+.about_block_img{
+    float: right;
+    margin: 10px 0 10px 20px;
+    border: 2px solid #3d96da;
+    padding: 3px;
 }

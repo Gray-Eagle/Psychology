@@ -4,27 +4,58 @@
 
 .methods_block_carousel{
     padding: 35px;
-    min-height: 370px;
+    min-height: 750px;
 }
 
-.methods_block_carousel_title{
+.methods_block_btn{
+    position: relative;
+    text-align: center;
+}
+
+.carousel_items{
+    background: linear-gradient(#3d96da, #579fd3, #d5d8f6);
+}
+
+.methods_block_read_more{
+    padding-top: 45px;
+}
+
+.methods_block_info_text{
+    padding: 0 20px;
+    text-align: justify;
+}
+
+.methods_block_info_title{
     font-family: "Roboto", sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 20px;
     line-height: 25px;
-    color: #688c84;
+    color: #000000;
     text-align: center;
     margin-bottom: 20px;
 }
 
-.methods_block_carousel_description{
+.methods_block_info_description{
     font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    font-size: 15px;
+    font-weight: 400;
+    font-size: 16px;
     line-height: 25px;
-    color: #688c84;
+    color: #000000;
+    margin-bottom: 45px;
+    text-indent: 1.5em;
 }
 
-.carousel_items{
-    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+.methods_block_info_wrapper{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.methods_block_img{
+    float: right;
+    margin: 10px 0 10px 20px;
 }
