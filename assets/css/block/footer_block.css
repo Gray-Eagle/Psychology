@@ -11,18 +11,31 @@
     color: #fff;
     text-decoration: none;
     float: left;
+    padding: 0;
 }
 
 .footer_block_wrapper{
     margin: 0 20px;
-}
-
-.footer_block_field a{
-    color: #fff;
     margin-left: 5px;
 }
 
-.footer_block_field a:hover{
+.footer_block_field{
+    margin: 0;
+}
+
+.footer_block_field li{
+    display: inline-block;
+}
+
+.footer_block_field li a{
+    color: #fff;
+}
+
+.footer_block_field li a:hover{
     text-decoration: none;
     color: #253a32;
+}
+
+.footer_block_field li:first-child{
+    margin-left: 0 !important;
 }

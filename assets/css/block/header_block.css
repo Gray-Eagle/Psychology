@@ -11,6 +11,11 @@
     color: #fff;
 }
 
+.header_block_title a{
+    text-decoration: none;
+    color: #fff;
+}
+
 .header_block_description{
     font-family: "Lobster", sans-serif;
     font-weight: 400;
@@ -29,14 +34,25 @@
     color: #fff;
     text-decoration: none;
     float: right;
+    padding: 0;
 }
 
-.header_block_field a{
+.header_block_field li{
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+.header_block_field li a{
     color: #fff;
-    margin-left: 5px;
+    margin: 0 5px;
 }
 
-.header_block_field a:hover{
+.header_block_field li:last-child a{
+    margin-right: 0;
+}
+
+.header_block_field li a:hover{
     text-decoration: none;
     color: #000000;
 }
