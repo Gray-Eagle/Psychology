@@ -1,0 +1,88 @@
+.form_block{
+    background: #3d96da;
+}
+
+.form_block_header{
+    padding-top: 30px;
+}
+
+.form_block_title{
+    font-family: "Lobster", sans-serif;
+    font-weight: 300;
+    font-size: 33px;
+    line-height: 25px;
+    color: rgba(0, 0, 0, 0.86);
+    text-align: center;
+}
+
+.form_block_content{
+
+}
+
+.form_block_form_wrapper{
+    margin: 0 auto;
+    float: none;
+}
+
+.form_block_form{
+
+}
+
+.form_block_form_field{
+    padding-bottom: 15px;
+}
+
+.form_block .form_block_form_field textarea {
+    min-height: 160px;
+    resize: vertical;
+}
+
+.form_block_form_field .btn{
+    background: rgba(61, 150, 218, 0);
+    float: right;
+    margin-bottom: 30px;
+}
+
+.form_block_form_field .btn:hover{
+    background: rgb(255, 255, 255);
+}
+
+.reviews_block_field:nth-child(odd){
+    width: 100%;
+    background: #fff;
+    margin: 0;
+    padding: 40px 0;
+}
+
+.reviews_block_field:nth-child(even){
+    width: 100%;
+    background: #3d96da;
+    margin: 0;
+    padding: 40px 0;
+}
+
+.reviews_block_title{
+    font-family: "Lobster", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: #000000;
+    text-align: center;
+    margin: 0;
+}
+
+.reviews_block_description{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #000000;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.reviews_block_date {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
