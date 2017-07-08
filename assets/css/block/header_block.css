@@ -56,3 +56,29 @@
     text-decoration: none;
     color: #000000;
 }
+
+#nav ul{
+    list-style: none;
+    position: absolute;
+    left: -9999px;
+    opacity: 0;
+    -webkit-transition: 0.25s linear opacity;
+}
+
+#nav ul li{
+    padding-top: 1px;
+    float: none;
+    background: #3d96da;
+
+}
+
+#nav ul a{
+    white-space: nowrap;
+    display: block;
+}
+
+#nav li:hover ul{
+    left: 0;
+    opacity: 1;
+}
+
