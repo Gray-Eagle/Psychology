@@ -3,23 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e35e15e4-ede6-4a70-aa6d-c30ceb04590d" name="Default" comment="Выпадающее меню">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css.app.version.json" afterPath="$PROJECT_DIR$/assets/css.app.version.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css.vendor.version.json" afterPath="$PROJECT_DIR$/assets/css.vendor.version.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/block/header_block.css" afterPath="$PROJECT_DIR$/assets/css/block/header_block.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js.app.version.json" afterPath="$PROJECT_DIR$/assets/js.app.version.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js.vendor.version.json" afterPath="$PROJECT_DIR$/assets/js.vendor.version.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contacts.html" afterPath="$PROJECT_DIR$/contacts.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.min.css" afterPath="$PROJECT_DIR$/css/style.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/methods.html" afterPath="$PROJECT_DIR$/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/methods_one.html" afterPath="$PROJECT_DIR$/methods_one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/methods_three.html" afterPath="$PROJECT_DIR$/methods_three.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/methods_two.html" afterPath="$PROJECT_DIR$/methods_two.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/papers.html" afterPath="$PROJECT_DIR$/papers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reviews.html" afterPath="$PROJECT_DIR$/reviews.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,11 +18,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4131">
               <caret line="243" column="0" lean-forward="true" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header_block.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/block/header_block.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_block.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/block/index_block.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -91,7 +98,6 @@
         <option value="$PROJECT_DIR$/assets/css/btn.css" />
         <option value="$PROJECT_DIR$/assets/css/block/reviews_block.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/block/header_block.css" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/reviews.html" />
         <option value="$PROJECT_DIR$/services.html" />
@@ -101,6 +107,7 @@
         <option value="$PROJECT_DIR$/methods_three.html" />
         <option value="$PROJECT_DIR$/methods_two.html" />
         <option value="$PROJECT_DIR$/papers.html" />
+        <option value="$PROJECT_DIR$/assets/css/block/header_block.css" />
       </list>
     </option>
   </component>
@@ -430,7 +437,7 @@
       <workItem from="1498593814511" duration="2893000" />
       <workItem from="1499372299822" duration="2118000" />
       <workItem from="1499376899515" duration="6993000" />
-      <workItem from="1499546430028" duration="3170000" />
+      <workItem from="1499546430028" duration="4368000" />
     </task>
     <task id="LOCAL-00001" summary="Новый проект">
       <created>1493583996507</created>
@@ -481,11 +488,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499382376315</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Выпадающее меню">
+      <created>1499549624555</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1499549624555</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107538000" />
+    <option name="totallyTimeSpent" value="108736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -826,14 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/block/index_block.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/btn.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -846,14 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/block/header_block.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -934,6 +932,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4131">
           <caret line="243" column="0" lean-forward="true" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/block/index_block.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/block/header_block.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
           <folding />
         </state>
       </provider>

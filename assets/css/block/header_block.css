@@ -63,22 +63,29 @@
     left: -9999px;
     opacity: 0;
     -webkit-transition: 0.25s linear opacity;
+    background: #f6f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    z-index: 999;
 }
 
 #nav ul li{
     padding-top: 1px;
     float: none;
-    background: #3d96da;
-
 }
 
 #nav ul a{
     white-space: nowrap;
     display: block;
+    color: #000000;
 }
 
 #nav li:hover ul{
     left: 0;
     opacity: 1;
+}
+
+#nav ul a:hover{
+    color: #00b3ee;
 }
 
