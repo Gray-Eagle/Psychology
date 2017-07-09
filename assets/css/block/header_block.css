@@ -41,6 +41,7 @@
     padding: 0;
     margin: 0;
     display: inline-block;
+    position: relative;
 }
 
 .header_block_field li a{
@@ -72,12 +73,17 @@
 #nav ul li{
     padding-top: 1px;
     float: none;
+    display: block;
 }
 
 #nav ul a{
     white-space: nowrap;
     display: block;
     color: #000000;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+
 }
 
 #nav li:hover ul{
